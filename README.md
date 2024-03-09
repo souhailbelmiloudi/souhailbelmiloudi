@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/@souhailbelmiloudi2" target="blank"><img src="https://img.shields.io/twitter/follow/@souhailbelmiloudi2?logo=twitter&style=for-the-badge" alt="@souhailbelmiloudi2" /></a> </p>
 
-- 🌱 I’m currently learning **vue, payton**
+- 🌱 I’m currently learning **Solidity, payton**
 
 - 👨‍💻 All of my projects are available at [https://souhailbelmiloudi.github.io/HTML-CSS/Portofolio/](https://souhailbelmiloudi.github.io/HTML-CSS/Portofolio/)
 
-- 💬 Ask me about **js ,php**
+- 💬 Ask me about **js ,php,Vue**
 
 - 📫 How to reach me **souhailbelmiloudi@gmail.com**
 
